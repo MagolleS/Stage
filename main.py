@@ -8,6 +8,7 @@ import random
 import pickle
 
 ################Barres 3D ################
+#fig_3d.data correspondent aux données de la simulation representés dans le rapport de stage
 # nb_grad_x=100
 # S_0 = np.array([random.random()*10 for x in range(nb_grad_x)])
 # N1_0 = np.array([random.random()*0 for x in range(nb_grad_x)])
